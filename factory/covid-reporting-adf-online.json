@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-online",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f10f05d0-2c70-439a-83ab-7676cd2d1e07",
+		"tenantId": "145d9c92-0efa-4766-864c-25e75a66d7e2"
+	}
+}
